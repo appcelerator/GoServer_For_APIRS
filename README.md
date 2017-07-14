@@ -24,5 +24,8 @@ In order to get application access log with *appc cloud accesslog <appname>*, th
   }
 }
 ``` 
+## Publish to Axway API Runtime Services
 
+$ cd goserver
+$ acs publish --app_version 1.0.0 goserver
 
